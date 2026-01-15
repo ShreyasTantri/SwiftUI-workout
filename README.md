@@ -141,8 +141,3 @@ By the end of this workout:
 * Building screens feels effortless
 
 SwiftUI becomes a **skill**, not a struggle.
-
----
-
-📅 Started as a daily SwiftUI workout
-📌 Maintained with discipline
